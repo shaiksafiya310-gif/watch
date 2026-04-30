@@ -1,29 +1,5 @@
-body {
-    margin: 0;
-    font-family: Arial;
-}
-
-/* Header */
-.header {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    background-color: black;
-    color: white;
-    text-align: center;
-    padding: 15px;
-}
-
-/* Sidebar */
-.sidebar {
-    width: 200px;
-    height: 100vh;
-    background-color: lightgray;
-    padding-top: 70px;
-}
-
-/* Content */
 .content {
     margin-left: 200px;
-    padding: 100px 20px;
+    margin-top: 80px;
+    padding: 20px;
 }
